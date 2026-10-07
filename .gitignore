@@ -1,0 +1,7 @@
+# Claude Code preview config, not part of the demo
+.claude/
+
+# Windows / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
